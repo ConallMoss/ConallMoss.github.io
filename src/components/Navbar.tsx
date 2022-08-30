@@ -4,18 +4,21 @@ import { NavLink } from "react-router-dom";
 export function Navbar() {
 
     return (
-        <NavbarBs className="bg-white shadow-sm mb-3" sticky="top" >
+        <NavbarBs sticky="top" className="bg-white shadow-sm mb-3"  >
             <Container>
                 <Nav className="me-auto">
                     <Nav.Link to="/" as={NavLink}>
                         Home
                     </Nav.Link>
-                    <Nav.Link to="/contact" as={NavLink}>
-                        Contact
-                    </Nav.Link>
+
                     <Nav.Link to="/about" as={NavLink}>
                         About
                     </Nav.Link>
+
+                    <Nav.Link to="/project" as={NavLink}>
+                        Projects/Experience
+                    </Nav.Link>
+                    
                 </Nav>
             </Container>
         </NavbarBs>
