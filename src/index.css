@@ -68,3 +68,25 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+p {
+  color: navy;
+
+}
+
+h1 {
+  color: red;
+  font-size: 3.2em;
+}
+
+h2 {
+  color: green;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 150px;  
+}
