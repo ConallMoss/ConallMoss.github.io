@@ -2,6 +2,10 @@ p.test {
     color: navy;
   
   }
+
+  p {
+    color: pink;
+  }
   
   h1 {
     color: red;
@@ -9,4 +13,8 @@ p.test {
   
   h2 {
     color: green;
+  }
+
+  test {
+    color: red;
   }
