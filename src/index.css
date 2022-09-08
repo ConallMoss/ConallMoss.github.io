@@ -48,12 +48,12 @@ body {
 p {
     font-size: 18px;
 }
-
+/*
 a:link {
-    color:white
+    color:red
     
 }
-
+*/
 a:hover{
     color:white
 }
