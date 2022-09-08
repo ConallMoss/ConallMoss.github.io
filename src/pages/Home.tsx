@@ -1,5 +1,7 @@
 import { alignPropType } from "react-bootstrap/esm/types"
 
+import '../index.css';
+
 export function Home() {
     return (
         <>
@@ -8,7 +10,7 @@ export function Home() {
                 <img src="\imgs\me.jpg" alt="picture of me" style={{height:"400px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
                 </div>
                 <div style={{padding:"10px", textAlign:"center"}}>
-                    <h1> Conall Moss </h1>
+                    <h1 style={{fontSize:"70px", fontWeight:"bold"}}> Conall Moss </h1>
                     <h2> My Personal Portfolio </h2>
                     <h3> 2nd Year Computer Science Student @ Cambridge University </h3>
                     <div style={{maxWidth:"500px", margin:"auto", justifyContent:"center", padding:"20px"}}> 
