@@ -11,10 +11,10 @@ export function About() {
                 The languages I most enjoy using are Java and Python, as well as OCaml. I am also learning Javascript and TypeScript, but intend to continue
                 learning many more languages with different (paradigms?).
             </p>
-            <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
         </div>
         <div style={{display:"flex"}}>
-        <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+        <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
         <p style={{fontSize:"20px", padding:"25px"}}>
             Outside of Computer Science, I am currently the elected Undergraduate Accommodation & Facilities Officer for the JCR at Queens' College - 
             this involves working with the College to help organise accommodation for the 500+ Undergraduates at Queens', as well as to represent 
@@ -30,7 +30,7 @@ export function About() {
             Before University, I played a variety of sports including Judo, tennis, and badminton. Since joining university, I have really enjoyed trying some new 
             and different sports like climbing and frisbee.
         </p>
-        <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+        <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
         </div>
     </div>
     )

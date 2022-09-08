@@ -5,7 +5,7 @@ export function Home() {
         <>
             <div style={{maxWidth:"500px", margin:"auto", justifyContent:"center"}}>
                 <div>
-                <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"400px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+                <img src="\imgs\me.jpg" alt="picture of me" style={{height:"400px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
                 </div>
                 <div style={{padding:"10px", textAlign:"center"}}>
                     <h1> Conall Moss </h1>

@@ -10,7 +10,7 @@ export function Projects() {
         <h1>Experience</h1>
         
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
                 <h2> Cisco Micro-internship </h2>
                 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -26,7 +26,7 @@ export function Projects() {
         <h1>Projects</h1>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
                 <h2> Cisco Micro-internship </h2>
                 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
@@ -40,7 +40,7 @@ export function Projects() {
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\squarekirby.png" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
                 <h2> Infinite Runner Game </h2>
                 <p> This is Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
