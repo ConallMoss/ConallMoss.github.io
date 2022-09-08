@@ -5,9 +5,9 @@ import '../index.css';
 export function Home() {
     return (
         <>
-            <div style={{maxWidth:"500px", margin:"auto", justifyContent:"center"}}>
-                <div>
-                <img src="\imgs\me.jpg" alt="picture of me" style={{height:"400px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <div style={{maxWidth:"600px", margin:"auto", justifyContent:"center"}}>
+                <div style={{justifyContent:"center"}}>
+                    <img src="\imgs\me4.jpg" alt="picture of me" style={{padding:"10px", width:"600px", height:"400px", borderRadius:"100px"}}/>
                 </div>
                 <div style={{padding:"10px", textAlign:"center"}}>
                     <h1 style={{fontSize:"70px", fontWeight:"bold"}}> Conall Moss </h1>

@@ -72,5 +72,6 @@ a:hover{
   }
 
   .rect:hover {
-    background-color: rgb(75, 75, 255);
+    background-color: steelblue;
+    color: white;
   }

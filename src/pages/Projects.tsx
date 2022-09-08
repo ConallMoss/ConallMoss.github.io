@@ -7,46 +7,43 @@ export function Projects() {
         <link rel="stylesheet" type="text/css" href="../index.css"/>
         
 
-        <h1>Experience</h1>
+        <h1 style={{fontWeight:"bold"}}>Experience</h1>
         
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\cisco.jpg" alt="Cisco Company Logo" style={{height:"200px", width:"400px", padding:"10px", borderRadius:"75px"}}/>
             <div style={{padding:"20px"}}>
                 <h2>Cisco Micro-internship </h2>
                 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
-                <a href="www.google.com" className="rect">
-                    View on Github →
-                </a>
             </div>
         </div>
 
-        <h1>Projects</h1>
+        <h1 style={{fontWeight:"bold"}}>Projects</h1>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\checkersgamepic3.png" alt="Picture of Checkers game" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
-                <h2>Cisco Micro-internship </h2>
+                <h2>Network Java Checkers Game</h2>
                 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
                     Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
-                <a href="www.google.com" className="rect">
+                <a href="https://github.com/ConallMoss/Checkers" className="rect">
                     View on Github →
                 </a>
             </div>
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\me.jpg" alt="picture of me" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\mariorun.png" alt="picture of mario game" style={{height:"300px", width:"350px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
                 <h2>Infinite Runner Game </h2>
                 <p> This is Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
                     Developed using Python, with graphics done through the Pygame library, this game features the player character running at 
-                    killing oncoming enemies in order to try to score a high a score as possible, which is saved against their login </p>
-                <a href="www.google.com" className="rect">
+                    killing oncoming enemies in order to try to score a high a score as possible, which is saved against their login. </p>
+                <a href="https://github.com/ConallMoss/Mario-Game" className="rect">
                     View on Github →
                 </a>
             </div>

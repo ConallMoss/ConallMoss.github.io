@@ -1,0 +1,7 @@
+#To Do
+
+- Add relevant images
+- Redo text - about
+- Redo text - projects
+- Add colour/formatting
+- navbar is weird
