@@ -13,10 +13,7 @@ export function Projects() {
             <img src="\imgs\cisco.jpg" alt="Cisco Company Logo" style={{height:"200px", width:"400px", padding:"10px", borderRadius:"75px"}}/>
             <div style={{padding:"20px"}}>
                 <h2>Cisco Micro-internship </h2>
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum </p>
+                <p>  </p>
             </div>
         </div>
 
@@ -37,7 +34,7 @@ export function Projects() {
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\mariorun.png" alt="picture of mario game" style={{height:"300px", width:"350px", padding:"10px", borderRadius:"100px"}}/>
+            <img src="\imgs\mariorun.PNG" alt="picture of mario game" style={{height:"300px", width:"350px", padding:"10px", borderRadius:"100px"}}/>
             <div style={{padding:"20px"}}>
                 <h2>Infinite Runner Game </h2>
                 <p> This is Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>

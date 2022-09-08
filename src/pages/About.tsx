@@ -14,7 +14,7 @@ export function About() {
             <img src="\imgs\quens.jpg" alt="Queens' college Logo" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"100px"}}/>
         </div>
         <div style={{display:"flex"}}>
-        <img src="\imgs\me_jcr3.png" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"75px"}}/>
+        <img src="\imgs\me_jcr3.PNG" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"75px"}}/>
         <p style={{fontSize:"20px", padding:"25px"}}>
         I am currently the elected Undergraduate Accommodation & Facilities Officer for the JCR (Undergraduate Student Representatives) at Queens' College -
         this involves working with the College to help organise accommodation for the 500+ Undergraduates at Queens', 
