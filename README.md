@@ -1,4 +1,4 @@
-# mywebsite
+# My Website
 Repo for my personal website
 Link: https://conallmoss.github.io/
 
