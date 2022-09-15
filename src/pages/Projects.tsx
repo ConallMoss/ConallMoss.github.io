@@ -10,21 +10,56 @@ export function Projects() {
         <h1 style={{fontWeight:"bold"}}>Experience</h1>
         
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\cisco.jpg" alt="Cisco Company Logo" style={{height:"200px", width:"400px", padding:"10px", borderRadius:"75px"}}/>
-            <div style={{padding:"20px"}}>
-                <h2>Cisco Micro-internship </h2>
-                <p> I worked at Cisco (technology and communications company) for one week as an intern, where I helped the company build an internal tool for converting between data structure types using Python. This was able to make improvements of 10-100x speeds to their previous system. </p>
+            <img src="\imgs\cisco2.jpg" alt="Cisco Company Logo" style={{height:"250px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <div style={{padding:"20px", marginTop:"20px"}}>
+                <h2>Cisco Software Engineering Micro-Internship (2022)</h2>
+                <p> I worked at Cisco (networking, hardware and software company) for one week as an intern, where I helped the company build an internal tool for converting from YANG to JSON
+                    (data modelling languages) using Python. This was able to make improvements of 10-100x speeds to their previous solution 
+                    when put in use. As my first experience of working in a company, it was a different style of development that I was used to, but I learnt a lot from it.</p>
             </div>
         </div>
 
         <h1 style={{fontWeight:"bold"}}>Projects</h1>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\checkersgamepic3.png" alt="Picture of Checkers game" style={{height:"300px", width:"500px", padding:"10px", borderRadius:"100px"}}/>
-            <div style={{padding:"20px"}}>
-                <h2>Network Java Checkers Game</h2>
-                <p> This is an Online network based 2-played Checkers game I built in Java in order to better understand and implement some Object Oriented techniques I had recently learnt in my University course.
-                    I also used it to learn how to create a client-server networked system with sockets, as well as using a GUI in Java with userinputs.</p>
+            <a href="https://conallmoss.github.io/">
+            <img src="\imgs\myweb2.png" alt="Picture of my website" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            </a>
+            <div style={{padding:"20px", marginTop:"20px"}}>
+                <h2>Personal Website (2022)</h2>
+                <p>This is my personal website, which I built in order to learn the technologies and structure of website design and creation. This website was built using Typescript, HTML and CSS with the React library,
+                    and is hosted online using GitHub pages. As I hadn't built my own website like this before, I used a tutorial from WebDevSimplified <a href="https://www.youtube.com/watch?v=lATafp15HWA">here</a>, which gave me a template from which I could work from.
+                    </p>
+                <a href="https://github.com/ConallMoss/ConallMoss.github.io" className="rect">
+                    View on Github →
+                </a>
+            </div>
+        </div>
+
+        <div style={{display:"flex", width:"100%"}}>
+            <img src="\imgs\autobubble2.jpg" alt="Picture of AutoBubble in use" style={{height:"280px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <div style={{padding:"20px", marginTop:"10px"}}>
+                <h2>AutoBubble - Automatic speech bubbling (2022)</h2>
+                <p> Group project for the Hack Cambridge Atlas Hackathon 2022, <strong>winning the Deepgram Challenge award</strong>. In 24 hours, we as a team of 4 created a browser extension that adds live speech captioning next to peoples faces as they are speaking.
+                    This was built using the faces-api.js library for facial recognition, the Deepgram speech-to-text API for captioning and a Node.js powered backend server. On this project I worked mainly with integrating the Deepgram API into our backend server.
+                     </p>
+                <div style={{display:"flex", width:"100%"}}>
+                <a href="https://github.com/ConallMoss/Checkers" className="rect">
+                    View on Github →
+                </a>
+                <a href="https://devpost.com/software/autobubble" className="rect" style={{marginLeft:"20px", width:"160px"}}>
+                    View on Devpost →
+                </a>
+                </div>
+            </div>
+        </div>
+
+        <div style={{display:"flex", width:"100%"}}>
+            <img src="\imgs\checkers2.png" alt="Picture of Checkers game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <div style={{padding:"20px", marginTop:"20px"}}>
+                <h2>Network Java Checkers Game (2022)</h2>
+                <p> This is an online network based 2-player Checkers game I built in Java in order to better understand and implement Object Oriented programming techniques I had recently learnt in my University course.
+                    I also used it to learn how to create a client-server networked system with sockets, as well as using a GUI in Java with user inputs.</p>
                 <a href="https://github.com/ConallMoss/Checkers" className="rect">
                     View on Github →
                 </a>
@@ -32,12 +67,12 @@ export function Projects() {
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\mariorun.PNG" alt="picture of mario game" style={{height:"300px", width:"350px", padding:"10px", borderRadius:"100px"}}/>
-            <div style={{padding:"20px"}}>
-                <h2>Infinite Runner Game </h2>
-                <p> This is Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
-                    Developed using Python, with graphics done through the Pygame library, this game features the player character running at 
-                    killing oncoming enemies in order to try to score a high a score as possible, which is saved against their login. </p>
+            <img src="\imgs\mariorun2.png" alt="picture of mario game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <div style={{padding:"20px", marginTop:"20px"}}>
+                <h2>Infinite Runner Game (2021)</h2>
+                <p> This is a Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
+                    Developed using Python, with graphics done through the Pygame library, this game features the player character running at and
+                    killing oncoming enemies in order to try to score as many points as they can, with their highscore saved against their login. </p>
                 <a href="https://github.com/ConallMoss/Mario-Game" className="rect">
                     View on Github →
                 </a>

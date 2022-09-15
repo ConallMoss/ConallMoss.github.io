@@ -2,37 +2,37 @@ import '../index.css';
 
 export function About() {
     return (
-    <div style={{width:"80%", justifyContent:"center", margin:"auto"}}>
+    <div style={{width:"90%", justifyContent:"center", margin:"auto"}}>
         <h1 style={{padding:"25px", paddingBottom:"0px"}}> All About Me </h1>
         <div style={{display:"flex"}}>
-            <p style={{fontSize:"20px", padding:"25px"}}> 
-            Hi! My name is Conall and I'm a 2nd Year Computer Science student studying at Queens' College, University of Cambridge. <br/>
+            <p style={{fontSize:"20px", padding:"25px", marginTop:"10px"}}> 
+            Hi! My name is Conall and I'm a <strong>2nd Year Computer Science student</strong> studying at <strong>Queens' College, University of Cambridge.</strong> <br/>
             I'm interested in a wide range of topics within Computer Science, always eager to learn more about different areas. <br/>
-            The languages I most enjoy using are Java and Python, as well as OCaml. I am also learning Javascript and TypeScript, 
-            but intend to continue learning many more languages with different (paradigms?).
+            The languages I most enjoy using are <strong>Java</strong> and <strong>Python</strong>, as well as <strong>OCaml</strong>. I am also learning <strong>Javascript</strong> and <strong>TypeScript</strong>, 
+            but intend to continue learning many more languages.
             </p>
-            <img src="\imgs\quens.jpg" alt="Queens' college Logo" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"100px"}}/>
+            <img src="\imgs\quens2_e.png" alt="Queens' college Logo" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"60px"}}/>
         </div>
         <div style={{display:"flex"}}>
-        <img src="\imgs\me_jcr3.PNG" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"75px"}}/>
-        <p style={{fontSize:"20px", padding:"25px"}}>
-        I am currently the elected Undergraduate Accommodation & Facilities Officer for the JCR (Undergraduate Student Representatives) at Queens' College -
+        <img src="\imgs\me_jcr3.PNG" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", marginTop:"20px", paddingRight:"5px", marginLeft:"10px", borderRadius:"60px"}}/>
+        <p style={{fontSize:"20px", padding:"25px", marginTop:"10px"}}>
+        I am currently the elected <a href="https://qjcr.org.uk/"><strong>Undergraduate Accommodation & Facilities Officer for the JCR</strong></a> (Undergraduate Student Representatives) at Queens' College -
         this involves working with the College to help organise accommodation for the 500+ Undergraduates at Queens', 
-        as well as to represent the student body at weekly meetings with an Administrative Board of College. <br/>
-        Additionally, while at Sixth Form, I led the school's code club, focussing on teaching a group of Year 7 students 
+        as well as to represent the student body at weekly meetings with an administrative board of college. <br/>
+        Additionally, while at Sixth Form, I <strong>led the school's code club</strong>, focussing on teaching a group of Year 7 students 
         the basics of programming using a graphics package in Python. I also have a great interest in maths, 
-        leading me to compete nationally in maths challenges, both as part of a team and solo.
+        leading me to compete nationally in maths challenges, both as part of a team and solo, including a <strong>placing in the top 90 UK finalists</strong>.
         </p>
         </div>
         <div style={{display:"flex"}}>
-        <p style={{fontSize:"20px", padding:"25px"}}>
-        I was a Young Leader at my local scout group for 4 years, helping plan and lead activities for young scouts, 
+        <p style={{fontSize:"20px", padding:"25px", marginTop:"10px"}}>
+        I was a <strong>Young Leader</strong> at my local scout group for 4 years, helping plan and lead activities for young scouts, 
         having been a member of the Scout Association for over 10 years.<br/>
-         In my free time, I enjoy listening to music and reading book - especially fantasy and science fiction genres. <br/>
-         Before University, I played a variety of sports including Judo, tennis, and badminton. Since joining university, 
-         I have really enjoyed trying some new and different sports like climbing and Ultimate Frisbee.
+         In my free time, I enjoy listening to music and reading books - especially fantasy and science fiction genres. <br/>
+         Before University, I played a variety of sports including <strong>judo</strong>, <strong>tennis</strong>, and <strong>badminton</strong>. Since joining university, 
+         I have tried some new sports like <strong>climbing</strong> and <strong>Ultimate frisbee</strong>.
         </p>
-        <img src="\imgs\climbingwall.jpeg" alt="picture of climbing wall" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"100px"}}/>
+        <img src="\imgs\climbingwall.jpeg" alt="picture of climbing wall" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"60px"}}/>
         </div>
     </div>
     )

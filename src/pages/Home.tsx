@@ -7,11 +7,11 @@ export function Home() {
         <>
             <div style={{maxWidth:"600px", margin:"auto", justifyContent:"center"}}>
                 <div style={{justifyContent:"center"}}>
-                    <img src="\imgs\me4.jpg" alt="picture of me" style={{padding:"10px", width:"600px", height:"400px", borderRadius:"100px"}}/>
+                    <img src="\imgs\me4_e2.png" alt="picture of me" style={{padding:"10px", width:"600px", height:"400px", borderRadius:"100px"}}/>
                 </div>
-                <div style={{padding:"10px", textAlign:"center"}}>
-                    <h1 style={{fontSize:"70px", fontWeight:"bold"}}> Conall Moss </h1>
-                    <h2> My Personal Portfolio </h2>
+                <div style={{padding:"20px", textAlign:"center"}}>
+                    <h1 style={{fontSize:"80px", fontWeight:"bold"}}> Conall Moss </h1>
+                    <h2 style={{fontSize:"40px"}}> My Personal Portfolio </h2>
                     <h3> 2nd Year Computer Science Student @ Cambridge University </h3>
                     <div style={{maxWidth:"500px", margin:"auto", justifyContent:"center", padding:"20px"}}> 
                         <a href="https://www.linkedin.com/in/conall-moss-408037221/">
