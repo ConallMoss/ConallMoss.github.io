@@ -13,9 +13,7 @@ export function Projects() {
             <img src="\imgs\cisco2.jpg" alt="Cisco Company Logo" style={{height:"250px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
             <div style={{padding:"20px", marginTop:"20px"}}>
                 <h2>Cisco Software Engineering Micro-Internship (2022)</h2>
-                <p> I worked at Cisco (networking, hardware and software company) for one week as an intern, where I helped the company build an internal tool for converting from YANG to JSON
-                    (data modelling languages) using Python. This was able to make improvements of 10-100x speeds to their previous solution 
-                    when put in use. As my first experience of working in a company, it was a different style of development that I was used to, but I learnt a lot from it.</p>
+                <p> I worked at Cisco (networking, hardware and software company) for one week as an intern, where I helped the company develop an internal tool in Python to convert from network configuration language YANG to JSON so it could be used with other company tools. This was able to make improvements of up to 100x speeds to their previous solution when put in use. As my first experience of working in a company, it was a different style of development that I was used to, but I learnt a lot from it.</p>
             </div>
         </div>
 
@@ -57,9 +55,9 @@ export function Projects() {
         <div style={{display:"flex", width:"100%"}}>
             <img src="\imgs\checkers2.png" alt="Picture of Checkers game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
             <div style={{padding:"20px", marginTop:"20px"}}>
-                <h2>Network Java Checkers Game (2022)</h2>
+                <h2>Multiplayer Java Checkers Game (2022)</h2>
                 <p> This is an online network based 2-player Checkers game I built in Java in order to better understand and implement Object Oriented programming techniques I had recently learnt in my University course.
-                    I also used it to learn how to create a client-server networked system with sockets, as well as using a GUI in Java with user inputs.</p>
+                    I also used it to learn how to create a client-server networked system with sockets, as well as how to use GUI in Java with user inputs.</p>
                 <a href="https://github.com/ConallMoss/Checkers" className="rect">
                     View on Github →
                 </a>
@@ -71,8 +69,8 @@ export function Projects() {
             <div style={{padding:"20px", marginTop:"20px"}}>
                 <h2>Infinite Runner Game (2021)</h2>
                 <p> This is a Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
-                    Developed using Python, with graphics done through the Pygame library, this game features the player character running at and
-                    killing oncoming enemies in order to try to score as many points as they can, with their highscore saved against their login. </p>
+                    Developed using Python, with graphics done through the pygame library, this game features the player character trying to run at and
+                    killing oncoming enemies in order to try to score as many points as they can, with their personal highscore saved against their login account. </p>
                 <a href="https://github.com/ConallMoss/Mario-Game" className="rect">
                     View on Github →
                 </a>
