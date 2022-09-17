@@ -8,13 +8,13 @@ export function About() {
             <p style={{fontSize:"20px", padding:"25px", marginTop:"10px"}}> 
             Hi! My name is Conall and I'm a <strong>2nd Year Computer Science student</strong> studying at <strong>Queens' College, University of Cambridge.</strong> <br/>
             I'm interested in a wide range of topics within Computer Science and am always eager to learn more about different areas. <br/>
-            My favourite languages are <strong>Java</strong> and <strong>Python</strong>, as well as <strong>OCaml</strong>. I also started learning <strong>Javascript</strong> and <strong>TypeScript</strong> to understand web development better,, 
+            My favourite languages are <strong>Java</strong> and <strong>Python</strong>, as well as <strong>OCaml</strong>. I also started learning <strong>JavaScript</strong> and <strong>TypeScript</strong> to understand web development better,
             but intend to continue learning many more languages.
             </p>
-            <img src="\imgs\quens2_e.png" alt="Queens' college Logo" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"60px"}}/>
+            <img src="\imgs\quens2_e.jpg" alt="Queens' college Logo" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"60px"}}/>
         </div>
         <div style={{display:"flex"}}>
-        <img src="\imgs\me_jcr3.PNG" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", marginTop:"20px", paddingRight:"5px", marginLeft:"10px", borderRadius:"60px"}}/>
+        <img src="\imgs\me_jcr3.jpg" alt="my JCR picture" style={{height:"300px", width:"500px", padding:"10px", marginTop:"20px", paddingRight:"5px", marginLeft:"10px", borderRadius:"60px"}}/>
         <p style={{fontSize:"20px", padding:"25px", marginTop:"10px"}}>
         I am currently the elected <a href="https://qjcr.org.uk/"><strong>Undergraduate Accommodation & Facilities Officer for the JCR</strong></a> (Undergraduate Student Representatives) at Queens' College -
         this involves working with the College to help organise accommodation for the 500+ Undergraduates at Queens', 

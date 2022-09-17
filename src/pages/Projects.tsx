@@ -21,7 +21,7 @@ export function Projects() {
 
         <div style={{display:"flex", width:"100%"}}>
             <a href="https://conallmoss.github.io/">
-            <img src="\imgs\myweb2.png" alt="Picture of my website" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <img src="\imgs\myweb2.jpg" alt="Picture of my website" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
             </a>
             <div style={{padding:"20px", marginTop:"20px"}}>
                 <h2>Personal Website (2022)</h2>
@@ -53,7 +53,7 @@ export function Projects() {
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\checkers2.png" alt="Picture of Checkers game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <img src="\imgs\checkers2.jpg" alt="Picture of Checkers game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
             <div style={{padding:"20px", marginTop:"20px"}}>
                 <h2>Multiplayer Java Checkers Game (2022)</h2>
                 <p> This is an online network based 2-player Checkers game I built in Java in order to better understand and implement Object Oriented programming techniques I had recently learnt in my University course.
@@ -65,7 +65,7 @@ export function Projects() {
         </div>
 
         <div style={{display:"flex", width:"100%"}}>
-            <img src="\imgs\mariorun2.png" alt="picture of mario game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
+            <img src="\imgs\mariorun2.jpg" alt="picture of mario game" style={{height:"300px", width:"400px", padding:"10px", borderRadius:"75px", margin:"10px"}}/>
             <div style={{padding:"20px", marginTop:"20px"}}>
                 <h2>Infinite Runner Game (2021)</h2>
                 <p> This is a Mario-inspired runner game I created for my A-Level coursework for Computer Science, which achieved a mark of 70/70. <br/>
