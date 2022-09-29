@@ -7,7 +7,7 @@ export function Home() {
         <>
             <div style={{maxWidth:"600px", margin:"auto", justifyContent:"center"}}>
                 <div style={{justifyContent:"center"}}>
-                    <img src="\imgs\me4_e2.jpg" alt="picture of me" style={{padding:"10px", width:"600px", height:"400px", borderRadius:"100px"}}/>
+                    <img src="\imgs\me4_e2.jpg" alt="picture of me" style={{padding:"10px", width:"600px", height:"400px", borderRadius:"50px", border:"5px solid white", marginTop:"20px"}}/>
                 </div>
                 <div style={{padding:"20px", textAlign:"center"}}>
                     <h1 style={{fontSize:"80px", fontWeight:"bold"}}> Conall Moss </h1>

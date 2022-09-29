@@ -30,7 +30,7 @@ export function About() {
         having previously been a member of the Scout Association for over 10 years.<br/>
          In my free time, I enjoy listening to music and reading books - especially fantasy and science fiction genres. <br/>
          Before University, I played a variety of sports including <strong>judo</strong>, <strong>tennis</strong>, and <strong>badminton</strong>. Since joining university, 
-         I have tried some new sports scuh as <strong>climbing</strong> and <strong>Ultimate frisbee</strong>.
+         I have tried some new sports such as <strong>climbing</strong> and <strong>Ultimate frisbee</strong>.
         </p>
         <img src="\imgs\climbingwall.jpeg" alt="picture of climbing wall" style={{height:"300px", width:"500px", padding:"10px", paddingTop:"0px", borderRadius:"60px"}}/>
         </div>
